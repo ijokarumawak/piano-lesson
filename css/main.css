@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+}
+
+svg {
+  border: 1px solid black;
+}
+
+.bar {
+  fill: none;
+  stroke: blue;
+}
+
+.note {
+  fill: blue;
+  stroke: black;
+}
+
+.key-w {
+  fill: white;
+  stroke: black;
+}
+
+.key-b {
+  fill: black;
+  stroke: black;
+}
+
+line {
+  stroke: gray;
+  stroke-width: 0.5;
+}
